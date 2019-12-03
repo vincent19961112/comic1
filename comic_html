@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>vincent_fance</title>
+<style>
+body 
+{
+	background-image:url('gradient2.png');
+	background-repeat:repeat-x;
+}
+h1 {text-align:center;}
+p.capitalize{text-decoration:capitalize;}
+
+</style>
+</head>
+<body>
+
+<b><i><h1 >漫畫牆 </h1></i></b>
+	<p class="capitalize"><a href="https://tw.manhuagui.com/comic/19430/">	鬼滅之刃<br>
+	<img src="https://bnextmedia.s3.hicloud.net.tw/image/album/2019-11/img-1574405315-32542@900.jpg" width="120" height="120"></a></p>
+	<a href="https://tw.manhuagui.com/comic/8356/" >
+<p class="capitalize">絕世唐門</p>
+	<img src="https://i1.kknews.cc/SIG=f3t9sj/2rq800044966n68onr5s.jpg" width="120" height="120">
+	<a href="https://tw.manhuagui.com/comic/7620/" >
+<p class="capitalize">鬥破蒼穹</p>
+	<img src="https://shp.qpic.cn/cfwebcap/0/5f6637978221cd2f5f9db2795e8c80d2/0?width=1000&height=1550" width="120" height="120">
+</body>
+</html>
