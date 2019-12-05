@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CSS 网页布局 - 菜鸟教程(runoob.com)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>水鷗</h1>
+</div>
+
+<div class="topnav">
+  <a href="#">水鷗</a>
+  <a href="#">fb</a>
+  <a href="#">ig</a>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="divstyle">
+     <ul class="ulfomat">
+          <li class="lifomat"><a href=#home>首頁</a></li>
+          <li class="lifomat"><a href=#self-introduction>自介</a></li>
+          <li class="lifomat"><a href=#hobby>興趣</a></li>
+          <li class="lifomat"><a href=#reference>html</a></li>
+          <li class="lifomat"><a href=#reference>css</a></li>
+          <li class="lifomat"><a href=#reference>javascricpt</a></li>
+          <li class="lifomat"><a href=#reference>顏色表</a></li>
+          <li class="lifomat"><a href=#reference>姓名輸入</a></li>
+          <li class="lifomat"><a href=#reference>計算機</a></li>
+          <li class="lifomat"><a href=#reference>相簿</a></li>
+          <li class="lifomat"><a href=#reference>參考文件</a></li>
+        </ul>
+    </div>
+  </div>
+  
+  <div class="column1">
+    <h2>價值觀</h2>
+    <p>是一种处理事情判断对错、做选择时取舍的标准。有益的事物才有正价值。对有益或有害的事物评判的标准就是一个人的价值观。世界价值观调查，监控和分析：民主，对外国人和少数民族的宽容，对两性平等的支持，宗教的作用和宗教的变化水平的支持，全球化的影响，对环境的态度，工作，家庭，政治，民族认同，文化，多样性，不安全感和主观幸福感。价值观也可以说是一种深藏于内心的准绳，在面临抉择时的一项依据。价值观会指引一个人去从事某些行为，例如：“诚信”的价值观，会让人坦承面对困境及对别人说明事情的真相，提升别人对其的信任度。“纪律”的价值观，会让人依规定行事，产生执行力。“关怀”的价值观，会让人关心别人，了解别人的困境，对别人有同理心。“自我”的价值观，会使人“自我中心”。不同的价值观会产生不同的行为模式，进而产生不同的社会文化。</p>
+  </div>
+</div>
+  <div class="footer">
+    <p>底部</p>
+  </div>
+
+</body>
+</html>
