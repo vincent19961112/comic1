@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>水鷗</title> 
+  <style>
+
+body {
+  margin: 0;
+}
+</style>
+</head>
+<body class="boby">
+	<h1 class="header">我的網站架起來</h1>
+  <div class="column1">
+  	<div class="divstyle">
+    	<ul class="ulfomat">
+     	<li class="lifomat"><a href=#home>首頁</a></li>
+     	<li class="lifomat"><a href=#self-introduction>自介</a></li>
+     	<li class="lifomat"><a href=#hobby>興趣</a></li>
+     	<li class="lifomat"><a href=#reference>html</a></li>
+    	<li class="lifomat"><a href=#reference>css</a></li>
+    	<li class="lifomat"><a href=#reference>javascricpt</a></li>
+        <li class="lifomat"><a href=#reference>顏色表</a></li>
+        <li class="lifomat"><a href=#reference>姓名輸入</a></li>
+        <li class="lifomat"><a href=#reference>計算機</a></li>
+        <li class="lifomat"><a href=#reference>相簿</a></li>
+        <li class="lifomat"><a href=#reference>參考文件</a></li>
+      </ul>
+    <h1 class="footer">@</h1>
+   	 </div>
+    </div>
+    <div class="column2">
+  		<div class="divstyle">
+<ul class="ulfomat">
+          <li class="lifomat"><a href=#home>首頁</a></li>
+          <li class="lifomat"><a href=#self-introduction>自介</a></li>
+          <li class="lifomat"><a href=#hobby>興趣</a></li>
+          <li class="lifomat"><a href=#reference>html</a></li>
+          <li class="lifomat"><a href=#reference>css</a></li>
+          <li class="lifomat"><a href=#reference>javascricpt</a></li>
+          <li class="lifomat"><a href=#reference>顏色表</a></li>
+          <li class="lifomat"><a href=#reference>姓名輸入</a></li>
+          <li class="lifomat"><a href=#reference>計算機</a></li>
+          <li class="lifomat"><a href=#reference>相簿</a></li>
+          <li class="lifomat"><a href=#reference>參考文件</a></li>
+    <h1 class="footer">ZZXxXZZ</h1>
+   	 </div>
+    </div>
+      <div class="column3">
+  		<div class="divstyle">
+          <ul class="ulfomat">
+          <li class="lifomat"><a href=#home>首頁</a></li>
+          <li class="lifomat"><a href=#self-introduction>自介</a></li>
+          <li class="lifomat"><a href=#hobby>興趣</a></li>
+          <li class="lifomat"><a href=#reference>html</a></li>
+          <li class="lifomat"><a href=#reference>css</a></li>
+          <li class="lifomat"><a href=#reference>javascricpt</a></li>
+          <li class="lifomat"><a href=#reference>顏色表</a></li>
+          <li class="lifomat"><a href=#reference>姓名輸入</a></li>
+          <li class="lifomat"><a href=#reference>計算機</a></li>
+          <li class="lifomat"><a href=#reference>相簿</a></li>
+          <li class="lifomat"><a href=#reference>參考文件</a></li>
+
+    <h1 class="footer">Z</h1>
+   	 </div>
+    </div>
+
+
+</body>
+</html>
