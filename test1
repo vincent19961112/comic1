@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>水鷗</title> 
+<style type="text/css">
+  .boby{
+  font-family: Arial,"Microsoft YaHei",sans-serif;
+  background:#f1f1f1;
+  padding:10px;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #663300; 
+  font-size:55px;
+  color:#CC6633
+}
+
+.divstyle{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  color:#CC6633; 
+  font-size:15px;
+}
+
+.ulfomat{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+
+a:link,a:visited
+{
+  display:block;
+  font-weight:bold;
+  color:#FFFFFF;
+  background-color:#FF9900;
+  width:155px;
+  text-align:center;
+  padding:5px;
+  text-decoration:none;
+  text-transform:uppercase;
+    overflow: auto; /* 如果导航栏选项多，允许滚动 */
+}
+a:hover,a:active
+{
+  background-color:#663300;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+</style>
+</head>
+<body class="boby">
+	<h1 class="header">我的網站架起來</h1>
+  <div class="divstyle">
+    <ul class="ulfomat">
+      <li class="lifomat"><a href=#home>首頁</a></li>
+      <li class="lifomat"><a href=#self-introduction>自介</a></li>
+      <li class="lifomat"><a href=#hobby>興趣</a></li>
+      <li class="lifomat"><a href=#reference>html</a></li>
+      <li class="lifomat"><a href=#reference>css</a></li>
+      <li class="lifomat"><a href=#reference>javascricpt</a></li>
+      <li class="lifomat"><a href=#reference>顏色表</a></li>
+      <li class="lifomat"><a href=#reference>姓名輸入</a></li>
+      <li class="lifomat"><a href=#reference>計算機</a></li>
+      <li class="lifomat"><a href=#reference>相簿</a></li>
+      <li class="lifomat"><a href=#reference>參考文件</a></li>
+    </ul>
+    <h2 class="footer">ZZXxXZZ</h2>
+
+  </div>
+</body>
+</html>
